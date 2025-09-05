@@ -1,0 +1,33 @@
+{
+  "name": "shieldx",
+  "version": "1.0.0",
+  "description": "A CLI tool to compare, sync, and validate .env files (AI-powered soon)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "sync",
+    "cli",
+    "developer-tools",
+    "environment-variables",
+    "configuration",
+    "automation",
+    "productivity",
+    "devops"
+  ],
+  "author": "zeemscript",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "commander": "^14.0.0",
+    "dotenv": "^17.2.2"
+  },
+  "bin": {
+    "shieldx": "bin/shieldx.js"
+  },
+  "type": "module",
+  "devDependencies": {}
+}
