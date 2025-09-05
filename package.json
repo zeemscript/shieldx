@@ -28,6 +28,15 @@
   "bin": {
     "shieldx": "bin/shieldx.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeemscript/shieldx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeemscript/shieldx/issues"
+  },
+  "homepage": "https://github.com/zeemscript/shieldx#readme",
+
   "type": "module",
   "devDependencies": {}
 }
