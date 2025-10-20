@@ -1,0 +1,17 @@
+# ShieldX Ignore Patterns
+# Add patterns to ignore during security scans
+
+# Test files with mock secrets
+**/test/**
+**/tests/**
+**/__tests__/**
+*.test.js
+*.spec.js
+
+# Documentation
+*.md
+
+# Example files (they're supposed to have placeholders)
+*.example.*
+*.sample.*
+

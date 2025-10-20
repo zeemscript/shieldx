@@ -1,0 +1,32 @@
+# ShieldX Whitelist/Allowlist
+# Patterns listed here will be ignored during scans
+
+# Example: Whitelist specific test values
+# test_api_key_12345
+
+# Example: Whitelist with regex (wrap in forward slashes)
+# /example.*pattern/
+
+# Common false positives
+localhost
+127.0.0.1
+http://example.com
+https://example.com
+
+# GitHub URLs (documentation links)
+https://github.com/zeemscript/shieldx
+github.com/zeemscript/shieldx
+
+# Pattern definitions in scan.js (these are regex patterns, not secrets!)
+/pattern:/
+/severity:/
+-----BEGIN PRIVATE KEY-----
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+-----BEGIN (RSA|DSA|EC|OPENSSH) PRIVATE KEY-----
+Bearer Token
+
+# Test fixtures and examples
+test_api_key_12345
+sk_test_
+example_secret
+
