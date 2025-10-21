@@ -1,0 +1,155 @@
+═══════════════════════════════════════
+CANVA DESIGN TEXT (Copy each section)
+═══════════════════════════════════════
+
+═══ SLIDE 1: MAIN POST (RECOMMENDED) ═══
+
+[TOP - LARGE BOLD TEXT - RED BACKGROUND]
+You Can't Commit Secrets Anymore
+
+[MIDDLE - MEDIUM TEXT]
+ShieldX blocks every commit.
+Scans every file.
+Catches every secret.
+
+Automatically.
+
+[FEATURES - BULLETS]
+How It Works:
+✅ Run: shieldx init (once)
+✅ Pre-commit hook installed
+✅ Every commit = auto-scanned
+✅ Secrets found = commit blocked
+
+[BOTTOM - CALL TO ACTION]
+npm install -g shieldx
+
+Your Code. Protected. Forever. 🛡️
+github.com/zeemscript/shieldx
+
+
+═══ ALTERNATIVE SLIDE ═══
+
+[HEADER]
+ShieldX v2.0
+Secure Your Code in Seconds
+
+[LEFT COLUMN]
+The Problem:
+→ Secrets in git
+→ $50K+ bills
+→ Data breaches
+→ Failed deploys
+
+[RIGHT COLUMN]
+The Solution:
+→ Smart scanner
+→ Pre-commit hooks
+→ Auto-fix
+→ 30-sec setup
+
+[FOOTER]
+npm install -g shieldx
+Free • Open Source • Production Ready
+
+
+═══ STATS SLIDE ═══
+
+[BIG NUMBER 1]
+2,000,000+
+Secrets leaked annually
+
+[BIG NUMBER 2]
+$4.45M
+Average breach cost
+
+[BIG NUMBER 3]
+30%
+Developers hardcode secrets
+
+[SOLUTION]
+Protect Your Code
+ShieldX v2.0
+
+npm install -g shieldx
+
+
+═══ FEATURE GRID ═══
+
+┌─────────────────┬─────────────────┐
+│  🔍 SCAN        │  ⚡ SETUP       │
+│  28+ patterns   │  30 seconds     │
+│  Real-time      │  Interactive    │
+└─────────────────┴─────────────────┘
+┌─────────────────┬─────────────────┐
+│  🛡️ PROTECT     │  🔧 FIX        │
+│  Pre-commit     │  Auto-move      │
+│  Zero leaks     │  to .env        │
+└─────────────────┴─────────────────┘
+
+ShieldX v2.0
+npm install -g shieldx
+
+
+═══ QUICK VERSION ═══
+
+Stop Committing Secrets
+
+ShieldX v2.0
+→ Scan for API keys
+→ Block git commits
+→ Setup in 30 seconds
+
+npm install -g shieldx
+
+Free & Open Source 🛡️
+
+
+═══ PRE-COMMIT HOOK FOCUS (BEST!) ═══
+
+[TOP - HUGE TEXT]
+Install Once.
+Protected Forever.
+
+[MIDDLE - EXPLANATION]
+ShieldX scans every commit automatically.
+
+Secrets detected? Commit blocked.
+No secrets? Commit allowed.
+
+You literally cannot commit secrets anymore.
+
+[FEATURE BOX]
+How It Works:
+1. Run: shieldx init
+2. Pre-commit hook installed
+3. Every commit scanned
+4. Secrets = blocked ❌
+
+[BOTTOM]
+npm install -g shieldx
+
+One Command. Lifetime Protection. 🛡️
+
+
+═══ SIMPLE & POWERFUL ═══
+
+[BIG BOLD]
+Automatic Protection
+Before Every Commit
+
+[MEDIUM TEXT]
+ShieldX v2.0
+
+Scans → Detects → Blocks
+
+[SMALL TEXT]
+28+ secret types caught
+Pre-commit hook installed
+Setup in 30 seconds
+
+npm install -g shieldx
+Free Forever 🛡️
+
+═══════════════════════════════════════
+
