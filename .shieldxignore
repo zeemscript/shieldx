@@ -8,10 +8,20 @@
 *.test.js
 *.spec.js
 
+# Test coverage and reports
+**/coverage/**
+**/node_modules/**
+**/.nyc_output/**
+
 # Documentation
 *.md
 
 # Example files (they're supposed to have placeholders)
 *.example.*
 *.sample.*
+*.template.*
+
+# Build output
+**/dist/**
+**/build/**
 

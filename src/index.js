@@ -96,7 +96,7 @@ program
   .description(
     "🛡️  A powerful CLI tool to secure, compare, and validate .env files"
   )
-  .version("2.0.0", "-v, --version", "Show version number")
+  .version("2.0.1", "-v, --version", "Show version number")
   .helpOption("-h, --help", "Show help information");
 
 // Init command - Interactive setup

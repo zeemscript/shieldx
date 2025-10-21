@@ -9,6 +9,7 @@ pnpm-debug.log*
 coverage/
 .nyc_output/
 *.lcov
+*.coverage
 
 # Environment files
 .env

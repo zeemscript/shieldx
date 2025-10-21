@@ -1,6 +1,6 @@
 {
   "name": "shieldx",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A CLI tool to compare, sync, and validate .env files (AI-powered soon)",
   "main": "index.js",
   "scripts": {
@@ -44,14 +44,5 @@
   "type": "module",
   "devDependencies": {
     "jest": "^29.7.0"
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "coverageDirectory": "coverage",
-    "collectCoverageFrom": [
-      "src/**/*.js",
-      "!src/index.js"
-    ],
-    "transform": {}
   }
 }
